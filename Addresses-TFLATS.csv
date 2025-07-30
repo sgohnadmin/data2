@@ -1,0 +1,105 @@
+﻿AddressLabel,Addr1,Addr2,City,Phone,PostalCode,State
+"#5550 Lexington, KY 40509",2344 Elkhorn Rd. ,Suite 100,Lexington,000-000-0000,40509,KY
+#5601 TN,1306 Westlawn Blvd,,Murfreesboro,000-000-0000,37128,TN
+100,2300 Maitland Center Pkwy, Ste 306,Maitland,(407)506-2222,32751,FL
+"Bradenton, FL  34207",2127 Cortez Rd. W,,Bradenton,0000000000,34207,FL
+Corporate,2300 Maitland Center Pkwy,Ste 306,Maitland,(407)506-2222,32751,FL
+Tijuana Flats - 100 - Corporate,2300 Maitland Center Pkwy,Ste 306,Maitland,(407) 506-2222,32751,FL
+Tijuana Flats - 102 - Hunt Club,444 S. Hunt Club Blvd,,Apopka,(407) 774-0402,32703,FL
+Tijuana Flats - 103 - Lake Mary,3005 W. Lake Mary Blvd.,Suite 109,Lake Mary,(407) 328-0907,32746,FL
+Tijuana Flats - 104 - Aloma,1955 Aloma Ave,,Winter Park,(407) 679-2132,32789,FL
+Tijuana Flats - 111 - Deerfield,278 South Federal Hwy,,Deerfield Beach,(954) 834-0227,33441,FL
+Tijuana Flats - 112 - St. Pete,944 4th Street North,Suite 100,St. Petersburg,(727) 823-5882,33701,FL
+Tijuana Flats - 114 - Tyrone,2117 66th St. North,,St. Petersburg,(727) 209-0191,33710,FL
+Tijuana Flats - 117 - Hunter's Creek,13651 Hunter's Oak Dr.,Suite 107,Orlando,(407) 770-0991,32837,FL
+Tijuana Flats - 120 - Largo,180 S. Belcher Rd.,,Largo,(727) 210-1190,33771,FL
+Tijuana Flats - 1201 - Winter Haven,5935 Cypress Gardens Blvd.,,Winter Haven,(863) 324-3262,33884,FL
+Tijuana Flats - 1203 - Lakeland,4796 S. Florida Ave.,,Lakeland,(863) 937-9155,33813,FL
+Tijuana Flats - 121 - Oldsmar,3687 Tampa Rd.,Suite 203,Oldsmar,(813) 749-8184,34677,FL
+Tijuana Flats - 122 - Longwood,2401 W. State Rd. 434,Bay 117,Longwood,(407) 478-5974,32779,FL
+Tijuana Flats - 127 - Lake Nona,9161 Narcoossee Rd.,Suite 110,Orlando,(407) 249-5323,32827,FL
+Tijuana Flats - 128 - Pineloch/Orange,3154 S. Orange Ave.,,Orlando,(407) 859-6190,32806,FL
+Tijuana Flats - 129 - Sanford,5030 W. State Rd. 46,,Sanford,(407) 936-0154,32771,FL
+Tijuana Flats - 130 - Altamonte Springs,895 E. Altamonte Dr.,,Altamonte Springs,(407) 478-3461,32701,FL
+Tijuana Flats - 133 - Fowler,2782 B. E. Fowler,,Tampa,(813) 975-0800,33618,FL
+Tijuana Flats - 134 - Dale Mabry,10019 N. Dale Mabry,,Tampa,(813) 849-6900,33618,FL
+Tijuana Flats - 135 - Brandon,11007 Causeway Blvd,,Brandon,(813) 643-3020,33511,FL
+Tijuana Flats - 139 - Ocala,3950 SW College Rd.,,Ocala,(352) 291-1316,34474,FL
+Tijuana Flats - 140 - Commercial Blvd,7942 W. Commercial Blvd.,,Lauderhill,(954) 749-3420,33351,FL
+Tijuana Flats - 1404 - Clermont,2560 East Highway 50,#101,Clermont,352-394-2083,34711,FL
+Tijuana Flats - 1405 - Daytona Beach,2280 W International Speedway Blvd,,Daytona Beach,(386) 366-9117,32114,FL
+Tijuana Flats - 1406 - Orange City,1169 Saxon Blvd.,,Orange City,(386) 456-0003,32763,FL
+Tijuana Flats - 147 - Sarasota #2,3404 Clark Rd.,,Sarasota,(941) 925-0729,34231,FL
+Tijuana Flats - 152 - Beach & Hodges,13529 Beach Blvd.,Ste 201B,Jacksonville,(904) 223-0041,32224,FL
+Tijuana Flats - 153 - College Park,2217 Edgewater Dr.,,Orlando,(407) 425-4762,32804,FL
+Tijuana Flats - 154 - Hollywood,3357 Sheridan St.,,Hollywood,(954) 987-5509,33021,FL
+Tijuana Flats - 156 - Cooper City,8703 Stirling Rd.,,Cooper City,(954) 318-0586,33328,FL
+Tijuana Flats - 157 - Leesburg,10300 US Hwy 441 #1,,Leesburg,(352) 343-3337,34788,FL
+Tijuana Flats - 159 - Bradenton, 2127 Cortez Rd W.,,Brandenton,(941) 756-7351,34207,FL
+Tijuana Flats - 1611 - Merritt Island,76 E Merritt Island CSWY,#104,Merritt Island,(321) 453-1881,32952,FL
+Tijuana Flats - 163 - Wesley Chapel,27709 S.R.56,Unit 101,Wesley Chapel,(813) 994-9010,33544,FL
+Tijuana Flats - 164 - Trinity,10900 S.R.54,Unit. 1001,New Port Richey,(727) 376-3500,34655,FL
+Tijuana Flats - 165 - Collier Parkway,23100 S.R.54,Unit 101,Lutz,(813) 949-1155,33549,FL
+Tijuana Flats - 167 - Colonial,2914 E Colonial Drive,,Orlando,(407) 897-7121,32803,FL
+Tijuana Flats - 169 - Archer Road,3205 Clark Butler Blvd #70,,Gainesville,(352) 373-8967,32608,FL
+Tijuana Flats - 170 - Coral Springs,6204 W Sample Dr,,Coral Springs,(954) 344-4445,33067,FL
+Tijuana Flats - 171 - Pembroke Pines,12598 Pines Blvd. #106,,Pembroke Pines,(954) 442-0420,33027,FL
+Tijuana Flats - 172 - River City,651 Nautica Dr,,Jacksonville,(904) 738-7642,32218,FL
+Tijuana Flats - 175 - Stuart,1990 SE Federal Hwy,,Stuart,(772) 219-8236,34994,FL
+Tijuana Flats - 176 - Riverside,2025 Riverside Ave #4/5,,Jacksonville,(904) 389-5630,32204,FL
+Tijuana Flats - 177 - Lantana,6201 S Jog Rd Ste 101,,Lake Worth,(561) 296-5309,33467,FL
+Tijuana Flats - 179 - Weston,1110/1112 Weston Rd.,,Weston,(954) 358-5235,33326,FL
+Tijuana Flats - 180 - Ft. Myers,12640 S Cleveland Ave 203,,Ft. Myers,(239) 204-9530,33907,FL
+Tijuana Flats - 181 - Roosevelt,10300 Roosevelt Boulevard N.,,St. Petersburg,(727) 578-8970,33716,FL
+Tijuana Flats - 183 - Sarasota UPC,5215 University Pkwy 106,,University Park,(941) 306-5842,34201,FL
+Tijuana Flats - 184 - Fleming Island,1647 CR 220,Suite103,Fleming Island,(904) 264-1766,32003,FL
+Tijuana Flats - 186 - UCF,11551 University Blvd,Suite. 6,Orlando,(407) 601-4935,32817,FL
+Tijuana Flats - 187 - Jupiter,6771 W Indiantown Rd,,Jupiter,(561) 515-1730,33458,FL
+Tijuana Flats - 190 - Clearwater,2518 State Road 580,Suite A,Clearwater,(727) 737-0915,33761,FL
+Tijuana Flats - 198 - Largo,13100 Seminole Blvd,Suite 105,Largo,(727) 437-0919,33778,FL
+Tijuana Flats - 204 - Winter Springs,160 Tuskawilla Rd.,Suite 1208,Winter Springs,(407) 706-2468,32708,FL
+Tijuana Flats - 205 - Fort Walton Beach,39 Eglin Parkway N.E.,,Fort Walton Beach,(850) 301-0002,32548,FL
+Tijuana Flats - 208 - Pensacola,4970 Bayou Blvd,Ste 300,Pensacola,(850) 476-2200,32503,FL
+Tijuana Flats - 209 - Oviedo,1016 Lockwood Blvd,Ste 150,Oviedo,(407) 706-1468,32765,FL
+Tijuana Flats - 212 - Casselberry ,991 E. Semoran Blvd.,,Casselberry ,(407) 331-3529,32707,FL
+Tijuana Flats - 222 - Eustis,17375 US HWY 441,,Mt Dora,(352) 508-1174,32757,FL
+Tijuana Flats - 223 - St. Lucie West,1359 NW St. Lucie West Blvd.,,Port St. Lucie,(772) 240-7755,34986,FL
+Tijuana Flats - 224 - Viera,7181 Lake Andrew Dr,Suite 101,Melbourne,(321) 558-3355,32940,FL
+Tijuana Flats - 227 - Platt St.,1617 W. Platt Street,,Tampa,(813) 528-4646,33606,FL
+Tijuana Flats - 230 - Royal Palm Beach,280 South SR-7,Suite #300,Royal Palm Beach,(561) 515-2715,33414,FL
+Tijuana Flats - 232 - Bloomingdale,2054 Bloomingdale Ave,,Valrico,(813) 324-2009,33596,FL
+Tijuana Flats - 234 - Melbourne,10 E New Haven Ave,Suite #103,Melbourne,(321) 373-4022,32904,FL
+Tijuana Flats - 236 - Millenia Mall,4693 Gardens Park Blvd,Suite 101,Orlando,(407) 965-5090,32839,FL
+Tijuana Flats - 237 - St. Cloud,4100 13th Street,,St. Cloud,(407) 979-4748,34769,FL
+Tijuana Flats - 238 - Port Orange,1760 Dunlawton Ave,Suite 105,Port Orange,(386) 271-4663,32127,FL
+Tijuana Flats - 239 - Riverview,13009 US HWY 301,,Riverview,(813) 257-9250,33579,FL
+Tijuana Flats - 241 - Apopka,1099 W Orange Blossom Trail,,Apopka,(321) 248-8698,32712,FL
+Tijuana Flats - 242 - Palm Bay Rd,705 Palm Bay Rd NE,Suite #109,West Melbourne,(321) 215-4860,32904,FL
+Tijuana Flats - 243 - Brooksville,12320 Cortez Blvd,,Brooksville,(352) 678-3444,34613,FL
+Tijuana Flats - 246 - Nocatee,41 Settlement Drive,Suite 501,Ponte Vedra,(904) 373-9230,32081,FL
+Tijuana Flats - 247 - Champions Gate,8274 Champions Gate Blvd,,Champions Gate,(863) 588-1740,33896,FL
+Tijuana Flats - 249 - Lutz,17475 N Dale Mabry Hwy,,Lutz,(813) 235-4257,33548,FL
+Tijuana Flats - 257 - Ocoee,11024 W Colonial Drive,,Ocoee,321-418-8104,34761,FL
+Tijuana Flats - 258 - Otown,7750 Palm Parkway,Suite 110,Orlando,TBA,32836,FL
+Tijuana Flats - 260 - Winter Garden,14410 Shoreside Way,Suite 100,Winter Garden,407-459-1910,34787,FL
+Tijuana Flats - 401 - Avalon,1024 N. Avalon Park Blvd.,#108,Orlando,(407) 373-0372,32828,FL
+Tijuana Flats - 402 - Oviedo,3635 Aloma Ave,Suite 1021,Oviedo,(407) 478-3468,32765,FL
+Tijuana Flats - 501 - Naples,11164 Tamiami Tr.,,Naples,(239) 514-1342 ,34110,FL
+Tijuana Flats - 502 - Port Charlotte,1100 El Jobean Rd., Ste 102,Port Charlotte,(941) 766-8226  ,33948,FL 
+Tijuana Flats - 503 - Estero,8350 Hospital Drive,Ste 102,Bonita Springs,(239) 948-8820 ,34135,FL
+Tijuana Flats - 5031 - Panama City Beach,226 W. 23rd St,,Panama City Beach,850-867-0587,32405,FL
+Tijuana Flats - 5041 - Tallahassee,3111 Mahan Dr.,,Tallahassee,(850) 597-7001,32308,FL
+Tijuana Flats - 5053 - Tallahassee,1400 Village Square Blvd,Unit 40,Tallahassee,(850) 391-3125,32312,FL
+Tijuana Flats - 5101 - Deland,305-1 International Speedway Blvd,,Deland,386-624-7060,32724,FL
+Tijuana Flats - 5102 - Palm Coast,5890 State Rd. 100,,Palm Coast,,32164,FL
+Tijuana Flats - 5401 - Mobile,283 McGregor Ave,,Mobile,,36608,AL
+Tijuana Flats - 5450 - Pigeon Forge,3060 Teaster Ln,Unit 105,Pigeon Forge,999-999-9999,37863,TN
+Tijuana Flats - 5501 - Apollo Beach,US Hwy 41 ,,Apollo Beach,,33572,FL
+Tijuana Flats - 5550 - Lexington,2344 Elkhorn Rd. ,Suite 100,Lexington,000-000-0000,40509,KY
+Tijuana Flats - 5555 - Louisville ,2105 S. Hurstbourne Pkwy,,Louisville ,,40220,KY
+Tijuana Flats - 5601 - Murfreesboro,1306 Westlawn Blvd,,Murfreesboro,999-999-9999,37128,TN
+Tijuana Flats - 5701 - Holly Springs,161 Grand Hill Place,,Holly Springs,(919) 629-7558,27540,NC
+Tijuana Flats - 5702 - Cary,7165 O'Kelly Chapel Rd,,Cary,(919) 629-3200,27519,NC
+Tijuana Flats - Store 172,651 Nautica Dr,,Jacksonville,(904) 738-7642,32218 ,FL
+Warehouse - Orlando,4560 36th Street,,Orlando,407.682.1400,32811,FL
+Warehouse Pickup - Orlando,4560 36th Street,,Orlando,407.682.1400,32811,FL
